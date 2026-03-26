@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Package build artifacts
+*.egg-info/
+dist/
+build/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS (for collaborators on Mac)
+.DS_Store
